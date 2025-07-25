@@ -3,13 +3,13 @@ Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 
 ## Fitur
 * Dashboard
-![Foto Dashboard](ss_program/dashboard.png "Dashboard Agen")
+![Foto Dashboard]
 
 * Daftar Penggunaan Listrik
-![Foto Daftar Penggunaan Listrik ](ss_program/daftar_penggunaan.png "Daftar Penggunaan Listrik")
+![Foto Daftar Penggunaan Listrik ]
 
 * Riwayat Pembayaran Listrik
-![Foto Riwayat Pembyaran Listrik](ss_program/riwayat_transaksi.png "Riwayat Pembayaran Listrik")
+![Foto Riwayat Pembyaran Listrik]
 
 ## Teknologi
 * PHP 5
@@ -21,7 +21,7 @@ Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 
 ## Info Developer
 Jika ada pertanyaan bisa hubungi kontak dibawah : 
-* [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
+* [Email](teukurangga123@gmail.com) - teukurangga09@gmail.com
 * [Instagram](https://www.instagram.com/teukurangga_f/) - @teukurangga_f
 
 ```
